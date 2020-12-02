@@ -1,0 +1,36 @@
+.head{
+    color:rgb(218, 145, 218)
+}
+
+
+.body{
+  background-image: url("backg.png"); }
+.menu {
+ background-color: rgba(0, 0, 0, 0.5);
+width: 80%; height: 55px;
+margin:auto;
+text-align: center; } 
+.stuff{
+color: rebeccapurple;
+}
+.stuff2{
+  color: rgb(94, 56, 133);
+padding:0% ;  
+}
+.signup{
+ color: rebeccapurple;
+}
+
+a {
+color: rgb(190, 62, 62);
+padding: 100px;
+text-align: center;
+font-size: 18px;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.footer,nav {
+    background-color: rgba(0, 0, 0, 0.5);
+   width: auto; 
+   position:relative;
+   bottom:0;
+   height: 55px;}
